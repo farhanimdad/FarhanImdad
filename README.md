@@ -51,40 +51,11 @@ Passionate IT engineering student (B.Tech '26) from Jharkhand, exploring the int
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
----
-
-## 🗺️ Developer Roadmap (2025–2026)
-
-> A transparent look at where I am and where I'm headed — because growth is a journey, not a destination.
-
-| Area | Status | Goal |
-|---|---|---|
-| HTML & CSS | ✅ Confident | Build pixel-perfect, responsive UIs |
-| PHP & MySQL | ✅ Confident | RESTful APIs, schema optimization |
-| JavaScript (ES6+) | 🔄 Learning | Async/await, DOM, modern patterns |
-| React.js | 🔄 Learning | Component architecture, hooks, state |
-| Node.js + Express | 🔄 Learning | Backend APIs, middleware, routing |
-| DSA & Problem Solving | 🔄 Learning | Arrays, strings, sorting, recursion |
-| Version Control (Git) | 🔄 Improving | Branching, PRs, open-source workflow |
-| REST API Design | 📌 Next | HTTP methods, status codes, best practices |
-| Deployment (Vercel/Render) | 📌 Next | Ship projects to production URLs |
-| Testing (Jest/unit tests) | 📌 Planned | Write testable, reliable code |
 
 ---
-
-## 🧠 CS Fundamentals I'm Building
-
-> Modern developers aren't just coders — they understand *why* things work.
-
-- 📦 **Data Structures** — Arrays, Linked Lists, Stacks, Queues, HashMaps
-- 🔁 **Algorithms** — Sorting, Searching, Recursion, Two Pointers
-- 🌐 **Networking Basics** — HTTP/HTTPS, DNS, Client-Server model, REST vs SOAP
-- 🗄️ **Database Concepts** — Normalization, Joins, Indexing, Transactions (ACID)
-- 🔐 **Security Fundamentals** — SQL Injection prevention, input validation, HTTPS
-- 🖥️ **OS Concepts** — Processes, memory management basics, file systems
-
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=MdZaidZeya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-*Dive into my repositories to see what I'm working on!* 🚀
