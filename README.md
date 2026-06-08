@@ -33,54 +33,6 @@ Passionate IT engineering student exploring the intersection of code and real-wo
 
 ---
 
-## 🚀 Projects
-
-### 🔧 Web-Based Tyre Inventory System
-> **Technologies:** HTML, CSS, PHP, MySQL
-
-A full-featured tyre inventory management system supporting add, edit, delete, and view operations. Built with a clean UI for both shop administrators and customers.
-
-- Dynamic CRUD operations via PHP & MySQL
-- User-friendly layout designed for real-world use
-- Deployed as part of my internship at **CSIR-CIMFR, Dhanbad**
-
----
-
-## 💼 Experience
-
-### Web Development Intern — CSIR-CIMFR, Dhanbad
-**Dec 2024 – Jan 2025**
-
-- Developed a full-stack web application for tyre shop inventory management
-- Designed both frontend and backend components
-- Ensured a responsive and intuitive interface for administrators and customers
-
----
-
-## 🏅 Certificates
-
-- 🎖️ **Web Developer Certificate** — CSIR-CIMFR *(Feb 2025)*
-
----
-
-## 🎓 Education
-
-**B.Tech in Information Technology** — 2022–2026
-University College of Engineering and Technology, Hazaribagh, Jharkhand
-*CGPA: 7.5*
-
----
-
-## 📊 GitHub Stats
-
-![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhanimdad&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=farhanimdad&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanimdad&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
 ### ✍️ Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
