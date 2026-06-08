@@ -1,5 +1,3 @@
-# Hi there, I'm Farhan Imdad 👋
-
 ## 💫 About Me
 
 Passionate IT engineering student (B.Tech '26) from Jharkhand, exploring the intersection of code and real-world problems. I believe in learning by building — every project I ship teaches me something a classroom never could.
